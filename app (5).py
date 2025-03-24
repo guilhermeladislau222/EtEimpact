@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-
+# aplicativo passou por um processo de recompactação app antigo na versão 17
 # Fatoresss para impactos
 IMPACT_FACTORS = {
     'eletricidade': {
